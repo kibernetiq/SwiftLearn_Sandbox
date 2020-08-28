@@ -51,4 +51,6 @@ mySmile.description
 var otherSmile: Smile = .joy
 otherSmile.about()
 
+var otherSmile2: Smile = .laugh
+
 
